@@ -1,0 +1,2 @@
+link: http://192.168.5.128/dvwa/vulnerabilities/sqli/?id=1&Submit=Submit#
+cookie: "security=low; PHPSESSID=nln8mmhdbikt0dfaunqcm25fmh"
