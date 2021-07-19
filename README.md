@@ -9,3 +9,5 @@
     else
         echo "Database Connection Successfully.";
 ?>
+
+mysqli_connect(): (HY000/1045): Access denied for user
